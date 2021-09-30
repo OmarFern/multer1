@@ -68,5 +68,12 @@
   "repository": "estudiante",
   "image": "group-1632967781847.jpg",
   "id": 10
+ },
+ {
+  "name": "omar",
+  "description": "41 años",
+  "repository": "remis",
+  "image": "group-1632968908029.jpg",
+  "id": 11
  }
 ]
