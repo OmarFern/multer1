@@ -4,7 +4,7 @@ const app = express();
 // Configuración
 app.set('view engine', 'ejs');
 
-app.use(express.static('public'));//guar el css , imagenes
+app.use(express.static('public'));//guarda el css , imagenes
 
 app.use(express.urlencoded({ extended: false }));// nos permite procesar los formurios
 
